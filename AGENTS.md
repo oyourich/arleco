@@ -58,3 +58,10 @@ State QA level explicitly: `source reviewed`, `syntax checked`, `browser visuall
 
 ## Handoff between conversations
 At the start of each new task, consult this file and current approved references; **do not assume the latest GitHub commit is the accepted design**. Explicitly record approvals, rejections, asset paths, and known unverified states. Keep the original loader intact unless the user specifically asks to edit it.
+
+
+## Reference library
+- The reference catalog is maintained in `docs/references/README.md`.
+- Before a visual-design task, review the relevant reference documents there.
+- Keep reference notes evidence-based: distinguish what was seen in user screenshots from what was verified on the original page. If Behance is inaccessible, save the URL and mark the analysis as pending rather than guessing.
+- References inform individual design decisions; they do not override the user's current brief, approved assets, or the scope boundaries above.
