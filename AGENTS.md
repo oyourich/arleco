@@ -65,3 +65,10 @@ At the start of each new task, consult this file and current approved references
 - Before a visual-design task, review the relevant reference documents there.
 - Keep reference notes evidence-based: distinguish what was seen in user screenshots from what was verified on the original page. If Behance is inaccessible, save the URL and mark the analysis as pending rather than guessing.
 - References inform individual design decisions; they do not override the user's current brief, approved assets, or the scope boundaries above.
+
+## Landing structure baseline (user-provided archive, 2026-11-26)
+- The user explicitly designated the uploaded `dist.zip` prototype as the **structural baseline** for the future ARLEKO landing page.
+- Review `references/landing-structure/README.md` before proposing sitemap, categories, catalogue components, product detail modals, planning pages, or CTA sequences.
+- This is a structure/UX reference, **not approved branding, assets or copy**: the archive is titled “Дерево и камень”, and it contains concepts and unverified claims.
+- The original archive is ~79.2 MB, and full binary transfer to GitHub is not yet complete. The repository currently contains an inventory and three HTML source documents only. Do not claim that the complete archive has been uploaded.
+- Preserve the existing site files until a specific user request asks to integrate or migrate sections from this reference.
