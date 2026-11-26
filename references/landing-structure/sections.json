@@ -1,0 +1,108 @@
+{
+  "source": "user supplied dist.zip (26 Nov 2026)",
+  "status": "structural_reference_not_deployed",
+  "pages": [
+    {
+      "path": "index.html",
+      "role": "landing",
+      "sections": [
+        {
+          "id": "top",
+          "kind": "hero",
+          "title": "Дома и бани из карельского кело"
+        },
+        {
+          "id": "production",
+          "kind": "process",
+          "title": "Одна команда. Полный цикл.",
+          "steps": [
+            "Заготовка леса",
+            "Своя пилорама",
+            "Ручная рубка и сборка",
+            "Доставка своими машинами"
+          ]
+        },
+        {
+          "id": "homes",
+          "kind": "catalogue",
+          "title": "Срубы для жизни",
+          "category": "homes",
+          "items": 4
+        },
+        {
+          "id": "baths",
+          "kind": "catalogue",
+          "title": "Бани из кело",
+          "category": "baths",
+          "items": 2
+        },
+        {
+          "id": "yard",
+          "kind": "catalogue",
+          "title": "Архитектура сада",
+          "category": "yard",
+          "items": 5
+        },
+        {
+          "id": "decor",
+          "kind": "catalogue",
+          "title": "Уют и декор",
+          "category": "decor",
+          "items": 2
+        },
+        {
+          "id": null,
+          "kind": "details-collection"
+        },
+        {
+          "id": "material",
+          "kind": "material",
+          "title": "Кело из Костомукши"
+        },
+        {
+          "id": "forest",
+          "kind": "sustainability",
+          "title": "Высаживаем новые деревья"
+        },
+        {
+          "id": null,
+          "kind": "final-cta",
+          "title": "Выберите проект для вашего участка"
+        }
+      ]
+    },
+    {
+      "path": "bath-plans.html",
+      "role": "bath-layouts",
+      "items": [
+        {
+          "id": "bath-small",
+          "name": "Лесная резиденция"
+        },
+        {
+          "id": "bath-terrace",
+          "name": "Гранд SPA"
+        }
+      ]
+    },
+    {
+      "path": "notes.html",
+      "role": "sources_and_editorial_notes"
+    }
+  ],
+  "interactionPatterns": [
+    "anchor navigation",
+    "mobile navigation",
+    "category filter/navigation",
+    "product detail dialog",
+    "download description as TXT",
+    "bath floorplans and room tables",
+    "active category on scroll"
+  ],
+  "visualStyleStatus": "NOT adopted for ARLEKO; structure only",
+  "caveats": [
+    "Original brand is Дерево и камень",
+    "Product images are concept visualizations, not confirmed built objects",
+    "Marketing facts require verification"
+  ]
+}
