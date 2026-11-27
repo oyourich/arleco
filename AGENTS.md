@@ -72,3 +72,12 @@ At the start of each new task, consult this file and current approved references
 - This is a structure/UX reference, **not approved branding, assets or copy**: the archive is titled “Дерево и камень”, and it contains concepts and unverified claims.
 - The original archive is ~79.2 MB, and full binary transfer to GitHub is not yet complete. The repository currently contains an inventory and three HTML source documents only. Do not claim that the complete archive has been uploaded.
 - Preserve the existing site files until a specific user request asks to integrate or migrate sections from this reference.
+
+## Design-strategy workstream
+
+- Keep the ongoing design strategy, observations, open questions and future case narrative in `docs/design-strategy/README.md` and its linked documents.
+- Before a visual concept or brand-direction discussion, read `docs/design-strategy/01-north-star.md` plus the current open questions. Distinguish the user's explicit assessments from tentative assistant interpretations.
+- Preserve the core tension from 2026-11-27: Apple Titanium-level **controlled product presentation**, but not lifeless/sculptural object fetish; ARLEKO timber must retain material truth, human authorship and a sense of life without premature lifestyle storytelling.
+- Four forest-house/material photos submitted in conversation on 2026-11-27 were deliberately **parked by the user**; do not make them active art-direction requirements unless the user reactivates them.
+- Research entries are not approvals. Keep the approved loader/hero and existing code unchanged unless specifically tasked. Design strategy docs, design references, structural baseline and shipped UI are separate sources of truth.
+- After meaningful strategy discussions, update the dated `docs/design-strategy/02-exploration-log.md` and promote only explicitly confirmed decisions to `01-north-star.md`. Preserve the reasoning and rejected directions for `04-case-narrative.md`.
